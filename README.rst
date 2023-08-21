@@ -14,9 +14,10 @@ implementations, please see the following
 
 Please cite the following if you use this code for your work:
 
-   A. Celaya et al., “PocketNet: A Smaller Neural Network For Medical
-   Image Analysis,” in IEEE Transactions on Medical Imaging, doi:
-   10.1109/TMI.2022.3224873.
+   .. code-block:: text
+      A. Celaya et al., “PocketNet: A Smaller Neural Network For Medical
+      Image Analysis,” in IEEE Transactions on Medical Imaging, doi:
+      10.1109/TMI.2022.3224873.
 
 Here is the bibtex citation:
 
@@ -25,7 +26,9 @@ Here is the bibtex citation:
        @article{
        pocketnet2022celaya, 
        title={PocketNet: A Smaller Neural Network for Medical Image Analysis},
-       author={Celaya, Adrian and Actor, Jonas A and Muthusivarajan, Rajarajesawari and Gates, Evan and Chung, Caroline and Schellingerhout, Dawid and Riviere, Beatrice and Fuentes, David},
+       author={Celaya, Adrian and Actor, Jonas A and Muthusivarajan, Rajarajesawari and Gates, 
+               Evan and Chung, Caroline and Schellingerhout, Dawid and Riviere, Beatrice and 
+               Fuentes, David},
        journal={IEEE Transactions on Medical Imaging},
        volume={42},
        number={4},
