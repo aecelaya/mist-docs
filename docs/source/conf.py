@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Medical Imaging Segmentation Toolkit'
+copyright = '2023, Adrian Celaya'
+author = 'Adrian Celaya'
 
 release = '0.1'
 version = '0.1.0'
